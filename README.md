@@ -2,6 +2,8 @@
 
 This repository contain list of most popular Android apps to this date.
 
+![](https://media.giphy.com/media/xT39D9WILbIVXOZ7jO/source.gif)
+
 ## Why
 
 So a while back, I wanted to create an Android icon pack. Upon researching, I noticed that most the tutorials out there are about getting started and doesn't guide you how to search for Android's popular apps (and its package name, activity, etc.) so I did gather what I can find and place it here.
