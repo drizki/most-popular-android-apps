@@ -1,6 +1,6 @@
 # MOST POPULAR APPS
 
-This repository contain most popular Android apps to this date.
+This repository contain list of most popular Android apps to this date.
 
 ## Why
 
