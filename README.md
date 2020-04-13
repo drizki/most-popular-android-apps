@@ -1,4 +1,4 @@
-# MOST POPULAR APPS
+## Popular Android Apps
 
 This repository contain list of most popular Android apps to this date.
 
@@ -22,4 +22,4 @@ Feel free to submit your list using Github issues or submit a pull request.
 
 [![CC0 1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-No Copyright - CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+Read more about it [here](https://creativecommons.org/publicdomain/zero/1.0/)
