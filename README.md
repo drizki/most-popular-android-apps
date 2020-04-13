@@ -10,7 +10,7 @@ So a while back, I wanted to create an Android icon pack. Upon researching, I no
 
 ## Data included
 
-There are two data included. One is based on downloads count on the play store and the other was gathered from digging Github repositories.
+There are at least 7000 items on the database which split into two main file. One is based on downloads count on the play store and the other was gathered from digging Github repositories. I'll consider to merge them later if needed.
 
 ## What can I use it for
 
