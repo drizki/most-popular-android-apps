@@ -6,12 +6,6 @@
     "download_count": "5,000,000,000"
   },
   {
-    "name": "name",
-    "package": "package",
-    "icon_url": "image",
-    "download_count": "downloads"
-  },
-  {
     "name": "Google Chrome: Fast & Secure",
     "package": "com.android.chrome",
     "icon_url": "https://lh3.googleusercontent.com/KwUBNPbMTk9jDXYS2AeX3illtVRTkrKVh5xR1Mg4WHd0CG2tV4mrh1z3kXi5z_warlk",
