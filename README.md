@@ -8,9 +8,9 @@ Last update: 2019-04-13
 
 ## Why
 
-So a while back, I wanted to create an Android icon pack. Upon researching, I noticed that most the tutorials out there are about getting started and doesn't guide you how to search for Android's popular apps (and its package name, activity, etc.).
+A while back ago, I wanted to create an Android icon pack. Upon researching, I noticed that most the tutorials out there are about getting started and doesn't guide you how to search for Android's popular apps (and its package name, activity, etc.) and I had no clue what icons should I design. There are some legit paid services to do it, but I don't think I want to spend money on it since it was only for fun.
 
-Also, there are some paid services to do it but I don't think I want to spend money on it. So I did gather what I can find and place it here.
+So I slap my keyboard and gather what I can find on the internet and then I place it on my Google Spreadsheet. Later, I find it cool if I can share it to you so you don't have to do the hard work 💪
 
 ## Data
 
